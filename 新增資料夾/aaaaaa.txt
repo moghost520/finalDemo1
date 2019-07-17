@@ -3,8 +3,6 @@ git add .
 git commit -m ""
 git push
 
-git reflog --> commit infomation
-
 
 git config --global user.email ""
 git config --global user.password ""
